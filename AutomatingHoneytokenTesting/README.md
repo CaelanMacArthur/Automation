@@ -8,7 +8,7 @@ The problem the software is trying to solve is to create a program that mostly a
 ## Solution 
 <br>
 
-##Automated testing does the following: 
+## Automated testing does the following: 
 
 1. Scrapes utterances from the Alexa skills store.
 2. Uses a voice synthesizer to talk to Alexa, and records Alexa’s responses 
