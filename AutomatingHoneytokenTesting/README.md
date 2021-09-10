@@ -42,6 +42,7 @@ The problem the software is trying to solve is to create a program that mostly a
 6. [Selenium Python bindings](https://selenium-python-test.readthedocs.io/en/latest/installation.html) 
 7. For getting Gmail one time password pip install --upgrade [google-api-python-client](https://developers.google.com/gmail/api/quickstart/python) google-auth-httplib2 google-auth-oauthlib.  
 8. [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) for parsing through HTML.  
+9. [Pyaudio](https://pypi.org/project/playsound/) to record audio. 
 
 ## Required software 
 
