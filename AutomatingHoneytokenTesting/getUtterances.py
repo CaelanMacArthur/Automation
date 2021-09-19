@@ -6,7 +6,7 @@ import os
 import shutil
 
 #invoke browser
-driver = webdriver.Chrome(executable_path= r" Path to selenium driver") # TODO Remove your path and put "Put chrome driver path here"
+driver = webdriver.Chrome(executable_path= r" Path to selenium driver") # 
 
 def runGetUtterrances():
 
