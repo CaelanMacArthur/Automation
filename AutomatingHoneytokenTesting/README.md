@@ -90,7 +90,7 @@ To test in different languages, they need to have different language codes. Curr
 
 ###### Problem 
 
-* Getting past Multi-factor authentication
+* Getting past Multi-factor authentication if it O'Auth is configured over SMS with a custom solution that third party skills createdual, howerver, it is not. For another potiental alterative solution reference this google [doc](https://docs.google.com/document/d/1w6OSeeNztWV6SWimKX9XatXe5fAhLoJJjRJEzEXH96Q/edit?usp=sharing). 
 
 ###### Solution 
 
